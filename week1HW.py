@@ -1,4 +1,5 @@
 # PROBLEM 1
+print("---PROBLEM 1---")
 # Declare string variables for the pet's type and name
 pet_type = "dog"
 pet_name = "Zoey"
@@ -9,6 +10,7 @@ print(f"I have a {pet_type} and her name is {pet_name}.")
 
 
 # PROBLEM 2
+print("\n---PROBLEM 2---")
 # Declare variables requiring input from the user
 user_name = input("Please enter your first name: ")
 user_age = int(input("Please enter your age: "))
@@ -28,6 +30,7 @@ print(f"Hello {user_name}! You are currently {user_age} years old.\n"
 
 
 # PROBLEM 3
+print("\n---PROBLEM 3---")
 # Import the calendar library
 import calendar
 
@@ -46,6 +49,7 @@ print(f"The number of seconds in January is {num_seconds}")
 
 
 # PROBLEM 4
+print("\n---PROBLEM 4---")
 # ask the user how many eggs he has
 # Also, my last teacher wanted me to just do the prints and inputs exactly as stated
 # Can I do dumb inputs like this or is it just easier if I do it exactly? Thanks --Brock B
